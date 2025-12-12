@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "b5fd",
+      "title": "Task10",
+      "completed": true,
+      "userId": "a1f8"
+    },
+    {
+      "id": "1730",
+      "title": "Task2",
+      "completed": true,
+      "userId": "ac05"
+    },
+    {
+      "id": "a8dd",
+      "title": "Task2",
+      "completed": true,
+      "userId": "a1f8"
+    },
+    {
+      "id": "b3fa",
+      "title": "task3",
+      "completed": false,
+      "userId": "a1f8"
+    },
+    {
+      "id": "5e72",
+      "title": "task2",
+      "completed": false,
+      "userId": "ac05"
+    },
+    {
+      "id": "6bae",
+      "title": "task2",
+      "completed": true,
+      "userId": "a1f8"
+    }
+  ],
+  "users": [
+    {
+      "id": "a1f8",
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "ac05",
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
