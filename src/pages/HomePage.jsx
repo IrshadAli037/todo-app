@@ -64,7 +64,7 @@ export default function HomePage() {
                         className="bg-white shadow-xl rounded-xl p-5 text-center"
                         initial={{ scale: 0.8, opacity: 0 }}
                         animate={{ scale: 1, opacity: 1 }}
-                        transition={{ duration: 0.4, delay: 0.2 * index }}
+                        transition={{ duration: 0.4, delay: 0.4 * index }}
                     >
                         <h2 className="text-xl sm:text-2xl font-bold">{card.value}</h2>
                         <p className="text-gray-500 text-sm sm:text-base">{card.label}</p>
